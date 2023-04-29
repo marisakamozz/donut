@@ -53,7 +53,7 @@ setup(
         "transformers>=4.11.3",
         "timm",
         "datasets[vision]",
-        "pytorch-lightning>=1.6.4",
+        "pytorch-lightning>=1.6.4,<2.0",
         "nltk",
         "sentencepiece",
         "zss",
